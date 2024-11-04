@@ -1,5 +1,5 @@
 # 💫 About Me:
-3rd Year Software Engineering Student at Toronto Metropolitan University.
+3rd Year Computer Engineering Student at Toronto Metropolitan University specializing in Software Engineering.
 
 
 ## 🌐 Socials:
